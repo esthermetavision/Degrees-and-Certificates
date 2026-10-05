@@ -8,3 +8,4 @@
 ### 🛡️ Certifications & Bootcamps
 * **Bootcamp Développeur Web** — *Nexa Digital School*
 * **Introduction to AI** — *Google*
+* **Responsive Web Design** — *FreeCodeCamp*
